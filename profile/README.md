@@ -1,8 +1,8 @@
 # Master of Philosophy at The University of Adelaide
 
 ## Quick Links
-[Project Board](https://github.com/orgs/ChrisFuscoMasters/projects/1/views/2?layout=board)
-[Transformer Library](https://github.com/ChrisFuscoMasters/TransformerLib)
+[Project Board](https://github.com/orgs/ChrisFuscoMasters/projects/1/views/2?layout=board)  
+[Transformer Library](https://github.com/ChrisFuscoMasters/TransformerLib)  
 
 ## Progress
 
