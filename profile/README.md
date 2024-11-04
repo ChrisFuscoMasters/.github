@@ -30,7 +30,7 @@
 - Started a new project on 3D lifting of objects in the wild
 - The channel 7 grant application was accepted
 
-### April
+### April, 2024
 - Major review
 
 ### August, 2024
