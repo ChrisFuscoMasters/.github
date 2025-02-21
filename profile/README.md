@@ -24,7 +24,7 @@
 - Realised research isn't as easy as it looks
 
 ### November, 2024
-- Wrote a technical report on using Segment Anything for open-world instance segmentation.
+- Wrote a technical report on using Segment Anything for open-world instance segmentation
 
 ### January, 2024
 - Started a new project on 3D lifting of objects in the wild
@@ -34,4 +34,7 @@
 - Major review
 
 ### August, 2024
-- Submitted "Object Agnostic 3D Lifting in Space and Time" to 3DV 2025.
+- Submitted "Object Agnostic 3D Lifting in Space and Time" to 3DV 2025
+
+### November, 2024
+- Paper accepted to 3DV 2025!
